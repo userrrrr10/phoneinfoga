@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./docs/images/banner.png" width=500  alt="project logo"/>
 </p>
-
+docker run --rm-it sundowndev/phoneinfoga scan -n "+33774366567"
 <div align="center">
   <a href="https://github.com/sundowndev/phoneinfoga/actions">
     <img src="https://github.com/sundowndev/phoneinfoga/workflows/Build/badge.svg" alt="build status" />
